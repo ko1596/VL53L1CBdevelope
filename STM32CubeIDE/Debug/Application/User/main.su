@@ -1,0 +1,10 @@
+stdio.h:214:5:fputc	16	static
+main.c:78:6:HAL_GPIO_EXTI_Callback	0	static
+main.c:161:6:SystemClock_Config	96	static
+main.c:405:6:RangingLoop	192	static
+main.c:477:6:SingleRangingLoop	88	static
+main.c:520:6:Multizones	296	static
+main.c:88:5:main	64	static
+main.c:613:6:SingleRoi	0	static
+main.c:617:6:TestApi	136	static
+main.c:652:6:Error_Handler	0	static

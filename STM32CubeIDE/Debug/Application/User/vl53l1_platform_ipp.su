@@ -1,0 +1,5 @@
+vl53l1_platform_ipp.c:54:14:VL53L1_ipp_hist_process_data	16	static
+vl53l1_platform_ipp.c:89:14:VL53L1_ipp_hist_ambient_dmax	4	static
+vl53l1_platform_ipp.c:116:14:VL53L1_ipp_xtalk_calibration_process_data	0	static
+vl53l1_platform_ipp.c:139:14:VL53L1_ipp_hist_xtalk_correction	8	static
+vl53l1_platform_ipp.c:167:14:VL53L1_ipp_generate_dual_reflectance_xtalk_samples	0	static
